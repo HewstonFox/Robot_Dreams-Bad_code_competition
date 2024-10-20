@@ -11,7 +11,7 @@
 * gcc
 * make
 
-### Setupping
+### Setup
 
 ```bash
 

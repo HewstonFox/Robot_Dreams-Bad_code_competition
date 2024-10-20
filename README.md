@@ -30,3 +30,9 @@ cd weird_rand
 make test
 
 ```
+
+### Cleanup
+
+```bash
+cd .. && rm -rf weird_rand
+```
